@@ -3,7 +3,7 @@ Set of real world data science tasks completed using the Python Pandas library.
 
 ## Setup
 
-To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://github.com/Magesh-Leo/Pandas-Data-Science-Tasks/
 
 The other option is to click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
 
@@ -37,9 +37,3 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
-Check out the first video I did on Pandas: <br/>
-https://youtu.be/vmEHCJofslg 
-
-Check out the videos I did on Matplotlib: <br/>
-https://youtu.be/DAQNHzOcO5A <br/>
-https://youtu.be/0P7QnIQDBJY
